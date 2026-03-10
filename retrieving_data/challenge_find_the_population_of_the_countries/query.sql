@@ -1,0 +1,4 @@
+SELECT
+    population
+FROM
+    country;
